@@ -1,0 +1,6 @@
+C:\OpenGL\3DScene\3DScene\external\shared\glad\src\glad.c;C:\OpenGL\3DScene\3DScene\x64\Debug\glad.obj
+C:\OpenGL\3DScene\3DScene\src\app.cpp;C:\OpenGL\3DScene\3DScene\x64\Debug\app.obj
+C:\OpenGL\3DScene\3DScene\src\main.cpp;C:\OpenGL\3DScene\3DScene\x64\Debug\main.obj
+C:\OpenGL\3DScene\3DScene\src\mesh.cpp;C:\OpenGL\3DScene\3DScene\x64\Debug\mesh.obj
+C:\OpenGL\3DScene\3DScene\src\shader.cpp;C:\OpenGL\3DScene\3DScene\x64\Debug\shader.obj
+C:\OpenGL\3DScene\3DScene\stb.cpp;C:\OpenGL\3DScene\3DScene\x64\Debug\stb.obj
